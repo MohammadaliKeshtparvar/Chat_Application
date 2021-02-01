@@ -1,0 +1,5 @@
+Record{name='#ali', state=Joined, time=2020-12-04 21:16:44.598, IP='pingplotter.com', port=62758}
+Record{name='#qqq', state=Joined, time=2020-12-04 21:16:47.594, IP='pingplotter.com', port=62747}
+Record{name='qqq', state=left, time=2020-12-04 21:16:56.793, IP='/127.0.0.1:62747', port=62747}
+Record{name='null', state=left, time=2020-12-04 21:17:21.709, IP='/127.0.0.1:62716', port=62716}
+Record{name='ali', state=left, time=2020-12-04 21:17:28.319, IP='/127.0.0.1:62758', port=62758}
